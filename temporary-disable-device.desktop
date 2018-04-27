@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Temporary Enable/Disable Device
+Terminal=false
+Name=Enable/Disable Device
+Exec=temporary-disable-device.zsh
+Type=Application
+Icon=keyboard
